@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState } from 'react'
-import TodoList from './TodoListcomponents/TodoList'
+import TodoList from './components/TodoList'
 //stores all states of our Todos
 // Used state returns an array
 function App() {
